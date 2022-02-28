@@ -4,15 +4,32 @@ Design Patterns in .NET
 
 ## Behavioral
 
-1. Command Pattern
-2. Observer Pattern
+- [x] Command 
+- [x] Observer 
+- [ ] Chain of Responsability
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
 
 ## Creational
 
-1. Abstract Factory Pattern
-2. Factory Method Pattern
+- [x] Abstract Factory 
+- [x] Factory Method
+- [ ] Builder
+- [ ] Prototype
+- [ ] Singleton 
 
 ## Structural
 
-1. Adapter Pattern
-2. Decorator Pattern
+- [x] Adapter 
+- [x] Decorator
+- [ ] Bridge
+- [ ] Composite
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy

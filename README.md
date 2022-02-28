@@ -13,7 +13,7 @@ Design Patterns in .NET
 - [ ] Observer
 - [ ] State
 - [ ] Strategy
-- [ ] Template Method
+- [x] Template Method
 - [ ] Visitor
 
 ## Creational

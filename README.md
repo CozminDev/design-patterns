@@ -20,7 +20,7 @@ Design Patterns in .NET
 
 - [x] Abstract Factory 
 - [x] Factory Method
-- [ ] Builder
+- [x] Builder
 - [ ] Prototype
 - [ ] Singleton 
 

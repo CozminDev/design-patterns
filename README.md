@@ -31,4 +31,4 @@ Design Patterns in .NET
 - [ ] Composite
 - [ ] Facade
 - [ ] Flyweight
-- [ ] Proxy
+- [x] Proxy

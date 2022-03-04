@@ -10,7 +10,6 @@ Design Patterns in .NET
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
-- [ ] Observer
 - [ ] State
 - [ ] Strategy
 - [x] Template Method
@@ -22,7 +21,7 @@ Design Patterns in .NET
 - [x] Factory Method
 - [x] Builder
 - [ ] Prototype
-- [ ] Singleton 
+- [x] Singleton 
 
 ## Structural
 

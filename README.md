@@ -11,7 +11,7 @@ Design Patterns in .NET
 - [ ] Mediator
 - [ ] Memento
 - [ ] State
-- [ ] Strategy
+- [x] Strategy
 - [x] Template Method
 - [ ] Visitor
 

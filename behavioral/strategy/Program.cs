@@ -11,7 +11,7 @@ namespace strategy
             IStrategy productStrategy = new ProductStrategy();
 
             Context context = new Context(sumStrategy);
-            Console.WriteLine(context.ExecuteStrategy(1, 2)); 
+            Console.WriteLine(context.ExecuteStrategy(1, 2));
         }
     }
 
